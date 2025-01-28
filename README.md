@@ -63,12 +63,6 @@ Some key plots include:
 2. Load the data into the specified file path.
 3. Run the script in an R environment.
 
-## Future Work
-
-- Extend the dataset to include recent years.
-- Apply advanced forecasting models (e.g., LSTM, Prophet).
-- Explore sector-wise emission breakdown.
-
 ## License
 
 This project is licensed under the MIT License.
