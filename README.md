@@ -27,7 +27,7 @@ The project involves:
 
 ## Data
 
-The dataset includes monthly residential CO₂ emissions from 1973 to 2021 for various energy sources such as coal, natural gas, and electricity. Data was sourced from a government database (file not included in the repository).
+The dataset includes monthly residential CO₂ emissions from 1973 to 2021 for various energy sources such as coal, natural gas, and electricity. Data was sourced from a government database.
 
 ## Code Structure
 
